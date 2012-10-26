@@ -1,0 +1,55 @@
+/*
+ * COLORS
+ */
+a,a:hover { color: #999999;}
+.menuItem,#homepage,.menubar a,#hl_loading,#searchpage,#loginpage,#optionspage,
+.riga .white,.riga .grey,.riga .textdiv,#searchresults .riga h2,#searchresults .riga p { color: 656565;}
+#searchremote a,#searchremote a.double,#searchremote a span,#searchresults .latest .wrap,#searchremote .tasto span { color: #6c6c6c;}
+#searchremote a:hover, #searchremote a:hover span, #logindiv a.button span, #optionsdiv a.button span, #searchresults .latest_sel .wrap, #searchresults .riga_sel h2, 
+#searchresults .riga_sel p,#searchresults .itemdiv h2, #searchremote .tasto_sel span, .riga_selected .white,.riga_selected .grey,.riga_selected .textdiv  { color: #fff; }
+#searchresults .riga_sel .author, #searchresults .riga_sel .len { color: #ffb8b8;}
+#searchresults .riga .author { color: #7c7c7c; }
+#searchremote .tasto { color: #2b2b2b;}
+#searchform input.searchinput, #logindiv input, #optionsdiv input { background: #fff; }
+
+
+.item{ background: url('http://static.tvblob.com/img/youtube/light/video_rollover.png') 0 -103px; }
+.menuItem{ background: url('http://static.tvblob.com/img/youtube/light/button_sprite.png') 0 -30px; }
+
+#hometopbar .other { background: url('http://static.tvblob.com/img/youtube/light/video_rollover.png') 0 -103px;}
+#homepage{ background: url('http://static.tvblob.com/img/youtube/light/home_bg.png'); }
+.menubar a { background: url('http://static.tvblob.com/img/youtube/light/button_sprite.png');}
+
+#frecciasx { background: transparent url('http://static.tvblob.com/img/youtube/light/yt_fs.png') no-repeat; }
+#frecciadx { background: transparent url('http://static.tvblob.com/img/youtube/light/yt_fd.png') no-repeat; }
+
+.videolistmenu {  background: url('http://static.tvblob.com/img/youtube/light/button_sprite.png') 0 -30px; }
+
+#loading { background: #000 url('http://static.tvblob.com/img/youtube/loading_yt.gif') center center no-repeat; border: 3px solid #4B0503; }
+#hl_loading,#yt_loading {background:transparent url('http://static.tvblob.com/img/youtube/loading_yt.gif') center center no-repeat; }
+
+#searchpage{ background: url('http://static.tvblob.com/img/youtube/light/search_bg_2.png'); }
+
+/* #searchremote a { background: transparent url('http://static.tvblob.com/img/youtube/light/keyboard_button.png') no-repeat;} */
+/* #searchremote a.double { background: transparent url('http://static.tvblob.com/img/youtube/light/keyboard_button.png') repeat-x; } */
+/* #searchremote a:hover { background: transparent url('http://static.tvblob.com/img/youtube/light/keyboard_button_on.png') no-repeat; } */
+/*  */
+/* #searchremote .tasto { background:url('http://static.tvblob.com/img/youtube/light/keyboard_sprite.png') no-repeat 0 0;} */
+/* #searchremote .tasto_sel {background:url('http://static.tvblob.com/img/youtube/light/keyboard_sprite.png') no-repeat 0 -40px;} */
+
+#searchresults .riga  { background: transparent url('http://static.tvblob.com/img/youtube/light/video_sprite.png') no-repeat 0 -98px; }
+#searchresults .riga_sel {background: transparent url('http://static.tvblob.com/img/youtube/light/video_sprite.png') no-repeat 0 0px; }
+
+#searchresults .latest { background: transparent url('http://static.tvblob.com/img/youtube/light/ultimericerche_sprite.png') no-repeat 0 -40px; }
+#searchresults .latest_sel { background: transparent url('http://static.tvblob.com/img/youtube/light/ultimericerche_sprite.png') no-repeat 0 0;}
+
+#optionspage { background: url('http://static.tvblob.com/img/youtube/light/search_bg.png'); }
+
+#loginpage { background: url('http://static.tvblob.com/img/youtube/light/search_bg.png'); width:100%; height:100%; color: }
+#logindiv a.button { background: transparent url('http://static.tvblob.com/img/youtube/light/button_sprite.png') no-repeat 0 0; }
+#errormsg { color: red; }
+
+#videolist{ background: url('http://static.tvblob.com/img/youtube/light/search_bg.png');}
+#frecciagiu { background: transparent url('http://static.tvblob.com/img/youtube/light/yt_freccia.png') no-repeat;}
+#videolistcont .riga  { background: url('http://static.tvblob.com/img/youtube/light/videolista_sprite.png') repeat 0 -98px;}
+#videolistcont .riga_selected {background: url('http://static.tvblob.com/img/youtube/light/videolista_sprite.png') repeat 0 0px;}

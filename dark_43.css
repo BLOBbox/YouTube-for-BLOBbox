@@ -1,0 +1,9 @@
+body { background-image = "url(http://static.tvblob.com/img/youtube/dark/search_bg_4-3.png)"; }
+#yt_loading {background:transparent url('http://static.tvblob.com/img/youtube/loading_yt.gif') center center no-repeat;}
+#homepage{ background: url('http://static.tvblob.com/img/youtube/dark/home_bg_4-3.png'); color: #656565; }
+#videolistmenu .menubar a { background: url('http://static.tvblob.com/img/youtube/dark/button_sprite_listavideo_4-3.png'); color: #656565;}
+#videolistmenu .videolistmenu { background: url('http://static.tvblob.com/img/youtube/dark/button_sprite_listavideo_4-3.png') 0 -30px; }
+#videolist{ background: url('http://static.tvblob.com/img/youtube/dark/search_bg_4-3.png');}
+.riga .textdiv{ color: #676767; }
+.riga_selected .textdiv {color: #fff;}
+#searchremote .tasto { color: #fff; }
